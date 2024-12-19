@@ -1,3 +1,3 @@
 # About me
 
-Linux system administrator of https://catnet.space/ from Russia
+Administrator of https://catnetspaceteam.ru/ from Russia.
